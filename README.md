@@ -1,5 +1,13 @@
 # 💫 About Me:
-im currently learning java dsa
+Hi, I’m 👋  
+I’m a developer passionate about building clean, efficient, and scalable solutions.
+
+- 💻 Interested in software development and problem-solving  
+- 🌱 Always learning new technologies  
+- 🔧 Enjoy working with code, tools, and systems that make life easier  
+
+Feel free to check out my repositories and connect!
+
 
 
 ## 🌐 Socials:
