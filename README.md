@@ -68,16 +68,16 @@ I don't list everything I've ever touched. These are the tools I actually use.
 | 🔧 Portfolio site | Personal dev + design portfolio | HTML, CSS, JS | 🚧 WIP |
 | 📊 Coming soon | Full-stack web app | Python, PHP, MySQL | 🔜 Planned |
 
-<!-- Uncomment and update these once you have real repos to pin:
+<!-- Uncomment and update these once you have real repos to pin:-->
 <div align="center">
-  <a href="https://github.com/ashtonds/YOUR-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashtonds&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true" />
+  <a href="(https://github.com/ashtonds/InvoicePro)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashtonds&repo=InvoicePro&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/ashtonds/YOUR-REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashtonds&repo=YOUR-REPO-NAME-2&theme=tokyonight&hide_border=true" />
+  <a href="(https://github.com/ashtonds/expense-tracker-web)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashtonds&repo=expense-tracker-web&theme=tokyonight&hide_border=true" />
   </a>
 </div>
--->
+
 
 ---
 
