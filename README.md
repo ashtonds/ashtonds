@@ -99,7 +99,7 @@ I'm open to remote full-stack roles, frontend work, and freelance web projects.
 
 📧 ashtondsouza289@gmail.com
 💼 [linkedin.com/in/ashton-dsouza-ds2004](https://www.linkedin.com/in/ashton-dsouza-ds2004)
-📸 [instagram.com/_ashton_07](https://instagram.com/_ashton_07)
+📸 [instagram.com/_ashton_07](https://instagram.com/ashtonds)
 
 > If you have something interesting, just email me directly. I respond.
 
